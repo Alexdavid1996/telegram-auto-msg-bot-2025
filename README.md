@@ -21,7 +21,7 @@ To get started, clone the repository and install the required dependencies. Foll
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Alexdu1996/telegram-auto-msg-bot-2025
+git clone https://github.com/AduStuff/telegram-auto-msg-bot-2025
 cd telegram-auto-msg-bot-2025
 ```
 ### Install Dependencies
