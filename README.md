@@ -1,7 +1,10 @@
-# Telegram Auto MsgBot
+# New Telegram Auto Forward Messages BOT 2025
 
 
-Welcome to the Duwiki Telegram Auto MsgBot! This Python-based automation tool is designed to simplify the process of forwarding messages from your Saved Messages to multiple Telegram groups. Whether you're managing communication for a community or need to distribute messages efficiently, this tool helps automate the process.
+## Bugs Fixed!
+
+✅ Now fully compatible with both non-premium and premium Telegram accounts!
+✅ Successfully forwards messages with premium emojis without formatting issues!
 
 ## Features
 
