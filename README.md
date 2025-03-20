@@ -66,4 +66,3 @@ For any questions or support, you can reach out to:
 
 Credits
 A. du 
-site:https://www.duteczone.net/
