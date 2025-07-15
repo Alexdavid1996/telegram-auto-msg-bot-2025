@@ -65,4 +65,5 @@ Contact
 For any questions or support, you can reach out to:
 
 Credits
-A. du 
+Alex david. du
+Site: https://byalexdavid.com/
